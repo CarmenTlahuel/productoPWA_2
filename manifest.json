@@ -1,11 +1,11 @@
 {
-    "name":"productoPWA2",
+    "name":"productoPWA_2",
     "short_name":"PWA",
     "start_url":"./index.html",
     "display":"standalone",
     "theme_color":"#FFDF00",
     "background_color":"#FFDF00",
-    "homepage": "https://carmentlahuel.github.io/productoPWA2/",
+    "homepage": "https://carmentlahuel.github.io./productoPWA_2/",
     "icons":[
         {
             "src":"iconos/homescreen192.png",
